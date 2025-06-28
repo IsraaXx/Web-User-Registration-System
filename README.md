@@ -49,7 +49,7 @@ It implements a user registration web page following the MVC architecture, with 
 │   │   ├── UploadController.php    # Handles image uploads
 │   │
 │   ├── /models
-│   │   ├── DB_ops.php                  # Database connection class
+│   │   ├── DB_ops.php              # Database connection class
 │   │
 │   ├── /views
 │   │   ├── header.php              # Header design
@@ -68,10 +68,10 @@ It implements a user registration web page following the MVC architecture, with 
 │
 │
 │── /database
-│   ├── user_management.sql                   # Backup of your database
+│   ├── user_management.sql         # Backup of your database
 │
-│── team_members.txt                  # Team members' names and IDs
-│── README.md                         # Project instructions
+│── team_members.txt                # Team members' names and IDs
+│── README.md                       # Project instructions
 ```
 
 
