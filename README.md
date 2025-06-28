@@ -66,13 +66,10 @@ It implements a user registration web page following the MVC architecture, with 
 │   │
 │   ├── /uploads                    # Directory for storing uploaded images
 │
-│── /config
-│   ├── config.php                  # Database credentials & app settings
 │
 │── /database
 │   ├── user_management.sql                   # Backup of your database
 │
-│── .htaccess                         # URL routing (optional)
 │── team_members.txt                  # Team members' names and IDs
 │── README.md                         # Project instructions
 ```
