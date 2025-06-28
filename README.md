@@ -91,28 +91,32 @@ It implements a user registration web page following the MVC architecture, with 
 
 ## 👥 Team Members
 
-This project was developed by a team of **6 students** as part of the Web Based Information Systems course.
+This project was developed by a team of **6 students** as part of the Web Based Information Systems course:
 
-- Israa Mohamed
-- Amany Mohamed
-- Joseph Sameh
-- Youssef Joseph
-- Nour Ahmed
-- Jonathan Mokhles
+- **Israa Mohamed**  
+- **Amany Mohamed**  
+- **Joseph Sameh**  
+- **Youssef Joseph**  
+- **Nour Ahmed**  
+- **Jonathan Mokhles**
 
+### 🔧 Responsibilities
 
 - **Frontend Developer (HTML/CSS)**
-    - Designed `index.php`, `header.php`, and `footer.php`
-- **Frontend Developer (JavaScript)**
-    - Developed `validations.js` for client-side validation
-    - Developed `api_ops.js` for API integration
-- **Backend Developer (PHP - Controllers)**
-    - Developed `UserController.php` for registration logic
-    - Implemented AJAX username validation
-- **Backend Developer (PHP - Models)**
-    - Developed `DB_ops.php` for database operations
-- **Image Handling & Deployment**
-    - Developed `UploadController.php` for handling image uploads
-    - Managed deployment and database backup
+  - Designed `index.php`, `header.php`, and `footer.php`.
 
----
+- **Frontend Developer (JavaScript)**
+  - Developed `validations.js` for client-side validation.
+  - Developed `api_ops.js` for WhatsApp API integration.
+
+- **Backend Developer (PHP - Controllers)**
+  - Developed `UserController.php` for registration logic.
+  - Implemented AJAX for checking existing usernames.
+
+- **Backend Developer (PHP - Models)**
+  - Developed `DB_ops.php` for managing database operations.
+
+- **Image Handling & Deployment**
+  - Developed `UploadController.php` for handling image uploads.
+  - Managed deployment and prepared database backups.
+
